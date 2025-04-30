@@ -1,0 +1,15 @@
+insert into products (product_id, product_name, category, price) values (1, 'Laptop', 'Computers', 1200);
+insert into products (product_id, product_name, category, price) values (2, 'Smartphone', 'Mobile Devices', 700);
+insert into products (product_id, product_name, category, price) values (3, 'Headphones', 'Audio', 250);
+insert into products (product_id, product_name, category, price) values (4, 'Monitor', 'Accessories', 400);
+insert into products (product_id, product_name, category, price) values (5, 'Keyboard', 'Accessories', 50);
+insert into products (product_id, product_name, category, price) values (6, 'Tablet', 'Mobile Devices', 500);
+insert into products (product_id, product_name, category, price) values (7, 'Mouse', 'Accessories', 20);
+insert into products (product_id, product_name, category, price) values (8, 'Printer', 'Office Equipment', 150);
+insert into products (product_id, product_name, category, price) values (9, 'Webcam', 'Accessories', 70);
+insert into products (product_id, product_name, category, price) values (10, 'External Hard Drive', 'Storage Devices', 90);
+insert into products (product_id, product_name, category, price) values (11, 'Gaming Chair', 'Furniture', 200);
+insert into products (product_id, product_name, category, price) values (12, 'Wireless Router', 'Networking', 120);
+insert into products (product_id, product_name, category, price) values (13, 'USB Flash Drive', 'Storage Devices', 15);
+insert into products (product_id, product_name, category, price) values (14, 'Bluetooth Speaker', 'Audio', 85);
+insert into products (product_id, product_name, category, price) values (15, 'Computer Desk', 'Furniture', 175);
