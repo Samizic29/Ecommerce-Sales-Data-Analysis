@@ -11,6 +11,7 @@
 
 ## Data Model
 > This is the first crucial step. It’s important to define and organize the tables before importing data. Relationships created between the tables based on key column id.
+
 >  Using **SQL Workbench**, entity relationship diagram was created between customers, products and orders tables.
 
 ## Data Preparation
@@ -44,14 +45,19 @@
 
 ## Key Insights
 💼 Customer Base: The platform has a total of 5,000 customers.
+
 💰 Revenue Overview: A total of $17 million was generated from 7,000 orders.
+
 🏆 Top Spending Customer: Anne-Corinne Mearns is the most valuable customer, spending a total of $23,017.
+
 📦 Top Product & Category: The Monitor is the highest revenue-generating product. Accessories is the top-performing product category in both orders and total revenue.
+
 👥 Demographics of High-Spenders: Most of the top-spending customers are aged above 30, suggesting a strong purchasing power within this demographic.
+
 📅 Time-Based Trends: March recorded the highest number of orders and revenue.
 
 ## Conclusion
-The uncovered valuable data insights will help the stakeholders to make informed data-driven decisions that can improve marketing strategies, optimize inventory, and enhance customer retention.
+> The uncovered valuable data insights will help the stakeholders to make informed data-driven decisions that can improve marketing strategies, optimize inventory, and enhance customer retention.
 
 ### SQL FUNCTIONS USED
 - Aggregate functions
