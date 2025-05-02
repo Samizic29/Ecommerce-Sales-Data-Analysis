@@ -62,9 +62,9 @@
 ### SQL FUNCTIONS USED
 - Aggregate functions
 - Join functions
-- Sub Query / Common Table Expressions (CTE)
+- Sub Queries / Common Table Expressions (CTE)
 - Filter functions
 - Date functions
 
-> You can check out the full project documentation here: <a href='###'>Ecommerce Sales Data Analysis</a>
+> You can check out the full project documentation here: <a href='https://medium.com/@samueloyedele/ecommerce-sales-data-analysis-f70fecbea1a3'>Ecommerce Sales Data Analysis</a>
 
